@@ -1,0 +1,50 @@
+body {
+
+}
+header{
+text-align: right;
+}
+#googlelogo {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 170px;
+
+}
+#searchbar {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+
+}
+#button {
+margin-left: 40%;
+
+}
+   
+#button2 {
+    
+
+}
+p {
+text-align: center;
+}
+footer {
+position: absolute;
+bottom: 0%;
+width: 100%;
+}
+#footer1 {
+
+}
+#footer2 {
+
+}
+a {
+    text-decoration: none;
+    
+}
+:hover a {
+    text-decoration: underline;
+}
